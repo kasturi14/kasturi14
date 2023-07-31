@@ -6,8 +6,6 @@
 
 📧 Reach me: kasturinandi14@gmail.com
 
-💼 Building [MSOne](https://msone.claritybiosystems.com/) - OneStop for Metabolomic Data Analysis requirements
-
 <!--
 **kasturi14/kasturi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
