@@ -1,4 +1,4 @@
-### Hi there, I'm, Kasturi! 👋
+### Hi there, I'm Kasturi! 👋
 
 🌱 Software Developer grinding hard to make something cool
 
