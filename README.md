@@ -2,7 +2,7 @@
 
 🌱 Software Developer grinding hard to make something cool
 
-✨ Favorite Tech: JavaScript, React, Python, C++, Angular ...
+✨ Favorite Tech: React, Python, C++, Java, Angular
 
 📧 Reach me: kasturinandi14@gmail.com
 
