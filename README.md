@@ -1,8 +1,4 @@
-### Hi there, I'm Kasturi! 👋
-
-🌱 Software Developer grinding hard to make something cool
-
-✨ Favorite Tech: React, Python, C++, Java, Angular
+### Hi there! 👋
 
 📧 Reach me: kasturinandi14@gmail.com
 
